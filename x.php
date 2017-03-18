@@ -107,7 +107,7 @@ if (!$_SESSION['authenticated']) {
         <th style='background-color:#201d1d; color:white;font-size:14px'>
      
         <center>
-            <font size="5" color="white"><blink>SHELL DETEKTOR</blink></font>
+            <font size="5" color="white"><blink>SD</blink></font>
  <!--           <font size="5" color="white"><blink>MENGGUNAKAN PHP</blink></font><br>
             <font size="5" color="white"><blink>UNTUK MENDETEKSI</blink></font>
             <font size="5" color="white"><blink>BERBAGAI JENIS <i>BACKDOOR</i></blink></font>
@@ -536,7 +536,7 @@ if (isset($_GET['dir'])) {
         </td>
         <th>
         <center>
-            <font size="5" color="white"><blink>SHELL DETEKTOR</blink></font>
+            <font size="5" color="white"><blink>SD</blink></font>
 <!--            <font size="5" color="white"><blink>MENGGUNAKAN PHP</blink></font><br>
             <font size="5" color="white"><blink>UNTUK MENDETEKSI</blink></font>
             <font size="5" color="white"><blink>BERBAGAI JENIS <i>BACKDOOR</i></blink></font>
