@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Shell Detektor</title>
+        <title>SD</title>
         <link href="http://3.bp.blogspot.com/-dCijSi1fl4s/Vc6jF5hFEOI/AAAAAAAABGE/4Q4tDf4ZgUE/s1600/Garuda%2BPancasila.png" rel="shortcut icon" type="image/x-icon" />
 
 <?php
@@ -8,7 +8,7 @@
  * @autor           Kriz
  * @email           kristisonzakaria@gmail.com
  * @version         ....
- * @name            Shell Detektor
+ * @name            SD
  * @project	    Skripsi S1
 */
 #-----------------------------------------------
