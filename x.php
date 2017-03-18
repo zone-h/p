@@ -9,7 +9,7 @@
  * @email           kristisonzakaria@gmail.com
  * @version         ....
  * @name            Shell Detektor
- * @project	    Skripsi S1
+ * @project	    Skripsi S1 Pendidikan Teknik Informatika dan Komputer STKIP Surya
 */
 #-----------------------------------------------
 # Awalan code untuk melarang masuk dengan http
