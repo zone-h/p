@@ -10,6 +10,7 @@
  * @version         ....
  * @name            Shell Detektor
  * @project	    Skripsi S1 Pendidikan Teknik Informatika dan Komputer STKIP Surya
+ * @motto	    "Orang tidak peduli seberapa banyak ilmu yang kau miliki, Mereka peduli pada seberapa banyak yang kau lakukan dengan ilmu yang dimiliki"
 */
 #-----------------------------------------------
 # Awalan code untuk melarang masuk dengan http
