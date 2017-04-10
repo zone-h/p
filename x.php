@@ -951,6 +951,6 @@ if (isset($_GET['dir'])) {
 #--------------------------------------------------
 # Akhiran code untuk melarang masuk dengan http
 } else {
-	echo "Anda harus masuk dengan https supaya aman, Contoh hhtps://contoh.com/shelldetektor.php";
+	echo "Anda harus masuk dengan https supaya aman, Contoh https://contoh.com/shelldetektor.php";
 }
 ?>
