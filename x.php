@@ -932,7 +932,7 @@ if (isset($_GET['dir'])) {
             <tbody>
                 <tr>
                     <tr style='background-color:#201d1d; color:white;font-size:14px'>
-                    <th><center>Detector Shell Developer By Kristison Zakaria</center><br>
+                    <th><center>Detector Shell Developer By Kriz</center><br>
                     </th>
                     </tr>
                 </tr>
